@@ -8,7 +8,7 @@
   [![Website](https://img.shields.io/badge/Website-stabilizer.finance-00ff88)](https://stabilizer.finance)
   [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://stabilizer-1.gitbook.io/stabilizer-docs)
   [![Twitter](https://img.shields.io/twitter/follow/StabilizerFi?style=social)](https://twitter.com/StabilizerFi)
-  [![Discord](https://img.shields.io/discord/YOUR_ID?color=7289da&label=Discord)](https://discord.com/invite/xuAZFZuhBY)
+  [![Discord](https://img.shields.io/discord/Stabilizer?color=7289da&label=Discord)](https://discord.com/invite/xuAZFZuhBY)
   
 </div>
 
@@ -150,13 +150,6 @@ Documentation and non-core code are released under the MIT License.
 - **Twitter**: [@StabilizerFi](https://twitter.com/StabilizerFi)
 - **Discord**: [Join us](https://discord.com/invite/xuAZFZuhBY)
 - **Email**: info@stabilizer.finance
-
----
-
-## 📊 Stats
-
-![Twitter](https://img.shields.io/twitter/follow/StabilizerFi?style=social)
-![Telegram](https://img.shields.io/telegram/join/stabilizer_finance?style=social)
 
 ---
 
