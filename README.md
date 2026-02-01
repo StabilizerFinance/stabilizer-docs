@@ -8,7 +8,6 @@
   [![Website](https://img.shields.io/badge/Website-stabilizer.finance-00ff88)](https://stabilizer.finance)
   [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://stabilizer-1.gitbook.io/stabilizer-docs)
   [![Twitter](https://img.shields.io/twitter/follow/StabilizerFi?style=social)](https://twitter.com/StabilizerFi)
-  [![Discord](https://img.shields.io/discord/Stabilizer?color=7289da&label=Discord)](https://discord.com/invite/xuAZFZuhBY)
   
 </div>
 
@@ -131,8 +130,6 @@ Security is our top priority. Our contracts will undergo multiple professional a
 - **Responsible Disclosure**: info@stabilizer.finance
 
 ---
-
-## 📄 License
 
 ## 📄 License
 
