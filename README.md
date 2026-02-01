@@ -155,9 +155,8 @@ Documentation and non-core code are released under the MIT License.
 
 ## 📊 Stats
 
-![Discord](https://img.shields.io/discord/YOUR_ID?label=Discord%20Members)
 ![Twitter](https://img.shields.io/twitter/follow/StabilizerFi?style=social)
-![Whitepaper Views](https://img.shields.io/badge/Whitepaper%20Views-20K%2B-blue)
+![Telegram](https://img.shields.io/telegram/join/stabilizer_finance?style=social)
 
 ---
 
