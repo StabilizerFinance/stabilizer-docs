@@ -15,14 +15,14 @@
 
 ## 🎯 Overview
 
-Stabilizer is a zero-slippage automated market maker (AMM) built on a true constant-sum invariant (x+y=k) with an internal stabilization mechanism. Unlike traditional constant-product AMMs, Stabilizer delivers flat 1:1 pricing on all stablecoin trades without reliance on external oracles or arbitrage.
+Stabilizer is a zero-slippage automated market maker (AMM) built on a true constant-sum invariant (x + y = k) with an internal stabilization mechanism. Unlike traditional constant-product AMMs, Stabilizer delivers flat 1:1 pricing on all stablecoin trades without relying on external oracles or arbitrage.
 
 ### Key Features
 
 - **🎯 Zero Slippage** - Execute trades at exactly 1:1 pricing, regardless of size
 - **🛡️ Zero Impermanent Loss** - LPs keep full principal while earning fees
-- **⚡ Constant-Sum Design** - True x+y=k invariant with internal rebalancing
-- **🏦 USDZ Stablecoin** - Fully reserve-backed native stablecoin powers the system
+- **⚡ Constant-Sum Design** - True x + y = k invariant with internal rebalancing
+- **🏦 USDZ Stablecoin** - A fully reserve-backed native stablecoin that powers the system
 - **🔒 No Oracle Dependency** - Deterministic pricing without external price feeds
 
 ### How It Works
@@ -32,7 +32,7 @@ Stabilizer maintains perfect pool balance through USDZ, our protocol-native stab
 1. User executes trade (e.g., USDT → USDC)
 2. Pools become imbalanced
 3. Protocol mints/burns USDZ to restore balance
-4. Result: Zero slippage, zero IL, optimal execution
+4. Result: Zero slippage, zero impermanent loss, optimal execution
 
 Read the full technical specification in our [whitepaper](https://stabilizer-1.gitbook.io/stabilizer-docs/whitepaper).
 
@@ -50,7 +50,7 @@ Read the full technical specification in our [whitepaper](https://stabilizer-1.g
 ## 🏗️ Repositories
 
 ### Core Protocol
-- **stabilizer-contracts** - Smart contracts (releasing Phase 2)
+- **stabilizer-contracts** - Smart contracts (releasing in Phase 2)
 - **[stabilizer-sdk](https://github.com/stabilizer-finance/stabilizer-sdk)** - Developer SDK (coming soon)
 
 ### Documentation & Tools
@@ -64,7 +64,7 @@ Read the full technical specification in our [whitepaper](https://stabilizer-1.g
 ### Phase 1 (Current)
 - ✅ Whitepaper released
 - ✅ Core protocol development
-- ✅ Community building 
+- ✅ Community building
 - ✅ Comparison tool launched
 - ✅ Testnet launch
 
@@ -93,10 +93,10 @@ Join the Stabilizer Legion:
 - **⚔️ Stabilizoors** - OG community members and contributors
 - **🧠 Stabiliticians** - Technical experts and educators
 - **🎨 Stabiligners** - Creative contributors and artists
-- **⚡ Stabilegates** — Community leaders and event organizers
-- **🛡️ Stabiliguards** — Moderators and community protectors
-- **🔭 Stabilscouts** — Partnership builders and ecosystem expanders
-- **📜 Stabilcouncils** — Advisory board and strategic advisors
+- **⚡ Stabiligates** - Community leaders and event organizers
+- **🛡️ Stabiliguards** - Moderators and community protectors
+- **🔭 Stabiliscouts** - Partnership builders and ecosystem expanders
+- **📜 Stabilicouncils** - Advisory board and strategic advisors
 
 ---
 
